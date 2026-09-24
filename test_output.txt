@@ -1,0 +1,10 @@
+00:00 +0: loading c:/Users/unehi/ICW5/test/activity05_test.dart
+00:00 +0: c:/Users/unehi/ICW5/test/activity05_test.dart: 1. Lower boundary: Decrease at 0 is rejected
+00:01 +1: c:/Users/unehi/ICW5/test/widget_test.dart: Counter increases and undo restores it
+00:01 +2: c:/Users/unehi/ICW5/test/activity05_test.dart: 2. Upper boundary: slider to 100, Increase by 1 is rejected
+00:01 +3: c:/Users/unehi/ICW5/test/activity05_test.dart: 3. Overshoot: 80 + 30 is rejected, history unchanged
+00:02 +4: c:/Users/unehi/ICW5/test/activity05_test.dart: 4. Invalid input keeps the last valid increment (5)
+00:02 +5: c:/Users/unehi/ICW5/test/activity05_test.dart: 5. Undo chain after buttons and slider: 10, 5, 0, 0
+00:03 +6: c:/Users/unehi/ICW5/test/activity05_test.dart: 6. Slider drag = one history entry; Undo syncs slider
+00:03 +7: c:/Users/unehi/ICW5/test/activity05_test.dart: 7. Colors: red at 0, black at 30 and 50, green at 51
+00:04 +8: All tests passed!
